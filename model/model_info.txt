@@ -1,0 +1,8 @@
+Model: HistGradientBoostingClassifier
+Training file: data\clean\heart_big_data.csv
+Rows used: 4847365
+Features used: 25
+Heart attack cases: 279560
+No heart attack cases: 4567805
+Best threshold: 0.4
+ROC-AUC: 0.8406921717722502

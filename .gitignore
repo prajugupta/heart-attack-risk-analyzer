@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Large data files
+data/raw/
+data/raw_multi/
+data/clean/heart_big_data.csv
+data/clean/*.xpt
+data/clean/*.XPT
+data/processed/
+*.zip
+
+# Model files
+model/*.pkl
+outputs/models/
+*.joblib
+
+# Cache
+.streamlit/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

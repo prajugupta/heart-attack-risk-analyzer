@@ -1,0 +1,7 @@
+metric,value
+rows,454555.0
+columns,21.0
+heart_attack_no_count,427883.0
+heart_attack_yes_count,26672.0
+heart_attack_no_percent,94.13
+heart_attack_yes_percent,5.87
